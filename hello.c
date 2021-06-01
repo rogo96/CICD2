@@ -1,5 +1,5 @@
 #include<stdio.h>
-//abcdchangeeeeefffffffffff
+//지친다..
 int main(){
   printf("hello\n");
   return 0;
