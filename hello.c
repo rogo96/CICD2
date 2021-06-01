@@ -1,4 +1,4 @@
-#include<main>
+#include<stdio.h>
 //abcd
 int main(){
   printf("hello\n");
