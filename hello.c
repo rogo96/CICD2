@@ -4,6 +4,6 @@
 //carry
 //desert
 int main(){
-  printf("hello\n");
+  printf("hello,hi,ho\n");
   return 0;
   }
